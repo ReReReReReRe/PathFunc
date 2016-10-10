@@ -13,6 +13,7 @@
 		826847971DAB6A4200F66489 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 826847951DAB6A4200F66489 /* Main.storyboard */; };
 		826847991DAB6A4200F66489 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 826847981DAB6A4200F66489 /* Assets.xcassets */; };
 		8268479C1DAB6A4200F66489 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8268479A1DAB6A4200F66489 /* LaunchScreen.storyboard */; };
+		826847A41DAB835300F66489 /* 屏幕快照.png in Resources */ = {isa = PBXBuildFile; fileRef = 826847A31DAB835300F66489 /* 屏幕快照.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		826847981DAB6A4200F66489 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8268479B1DAB6A4200F66489 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8268479D1DAB6A4200F66489 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		826847A31DAB835300F66489 /* 屏幕快照.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "屏幕快照.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 		8268478B1DAB6A4200F66489 /* PathFunc */ = {
 			isa = PBXGroup;
 			children = (
+				826847A31DAB835300F66489 /* 屏幕快照.png */,
 				8268478F1DAB6A4200F66489 /* AppDelegate.h */,
 				826847901DAB6A4200F66489 /* AppDelegate.m */,
 				826847921DAB6A4200F66489 /* ViewController.h */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8268479C1DAB6A4200F66489 /* LaunchScreen.storyboard in Resources */,
+				826847A41DAB835300F66489 /* 屏幕快照.png in Resources */,
 				826847991DAB6A4200F66489 /* Assets.xcassets in Resources */,
 				826847971DAB6A4200F66489 /* Main.storyboard in Resources */,
 			);
